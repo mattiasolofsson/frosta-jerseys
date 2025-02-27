@@ -10,6 +10,7 @@
 | 31     | EKBERG     | Large     | Adult 76 cm        |
 | 55     | SERVIN     | Large     | Inga damasker      | 
 | 56     | ÅHSBERG    | X - Large | Adult 76 cm        |
+| 57     | STEENBECK  | Medium    | Adult 76 cm        |
 | 59     | NORGREN    | Large     | Adult 76 cm        |
 | 60     | LILLIEHÖÖK | Small     | Adult 76 cm        |
 | 62     | ANDERSSON  | Large     | Inga damasker      |

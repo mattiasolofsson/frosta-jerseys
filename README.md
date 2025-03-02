@@ -8,6 +8,7 @@
 | 18     | OLOFSSON        | Medium     | Inga damasker      |
 | 21     | PETTERSSON      | X - Large  | Adult 76 cm        |
 | 22     | TILLY           | X - Large  | Adult 76 cm        |
+| 25     | KARLSSON        | Large      | Adult 76 cm        |
 | 26     | CZERNICKI       | Large      | Adult 76 cm        |
 | 28     | HÖGBERG WAHLUND | Medium     | Adult 76 cm        |
 | 30     | JOHANSSON       | Large      | Inga damasker      |
@@ -15,7 +16,8 @@
 | 44     | PERSSON         | Large      | Adult 76 cm        |
 | 55     | SERVIN          | Large      | Inga damasker      | 
 | 56     | ÅHSBERG         | X - Large  | Adult 76 cm        |
-| 57     | STEENBECK       | Small      | Adult 76 cm        |
+| 57     | STEENBECK       | Medium     | Adult 76 cm        |
+| 67     | OLOFSSON        | Medium     | Adult 76 cm        |
 | 59     | NORGREN         | Large      | Adult 76 cm        |
 | 60     | LILLIEHÖÖK      | Small      | Adult 76 cm        |
 | 62     | ANDERSSON       | Large      | Inga damasker      |

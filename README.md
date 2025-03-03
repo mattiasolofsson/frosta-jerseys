@@ -19,13 +19,13 @@
 | 56     | ÅHSBERG         | X - Large  | Adult 76 cm        |
 | 57     | STEENBECK       | Medium     | Adult 76 cm        |
 | 58     | LJUNGDAHL       | Goalie     | Adult 76 cm        |
+| 59     | NORGREN         | Large      | Adult 76 cm        |
+| 60     | LILLIEHÖÖK      | Small      | Adult 76 cm        |
 | 61     | HYSS            | Large      | Adult 76 cm        |
+| 62     | ANDERSSON       | Large      | Inga damasker      |
 | 64     | BAILES          | Medium     | Adult 76 cm        |
 | 65     | PIHLWRET        | X - Large  | Adult 76 cm        |
 | 67     | OLOFSSON        | Medium     | Adult 76 cm        |
-| 59     | NORGREN         | Large      | Adult 76 cm        |
-| 60     | LILLIEHÖÖK      | Small      | Adult 76 cm        |
-| 62     | ANDERSSON       | Large      | Inga damasker      |
 | 75     | LINDQVIST       | Medium     | Adult 76 cm        |
 | 86     | KÄRRSTEDT       | Medium     | Adult 76 cm        |
 | 87     | SJÖHOLM         | X - Large  | Inga damasker      |

@@ -13,10 +13,15 @@
 | 28     | HÖGBERG WAHLUND | Medium     | Adult 76 cm        |
 | 30     | JOHANSSON       | Large      | Inga damasker      |
 | 31     | EKBERG          | Large      | Adult 76 cm        |
+| 38     | RASMUSSON       | Large      | Inga damasker      |
 | 44     | PERSSON         | Large      | Adult 76 cm        |
 | 55     | SERVIN          | Large      | Inga damasker      | 
 | 56     | ÅHSBERG         | X - Large  | Adult 76 cm        |
 | 57     | STEENBECK       | Medium     | Adult 76 cm        |
+| 58     | LJUNGDAHL       | Goalie     | Adult 76 cm        |
+| 61     | HYSS            | Large      | Adult 76 cm        |
+| 64     | BAILES          | Medium     | Adult 76 cm        |
+| 65     | PIHLWRET        | X - Large  | Adult 76 cm        |
 | 67     | OLOFSSON        | Medium     | Adult 76 cm        |
 | 59     | NORGREN         | Large      | Adult 76 cm        |
 | 60     | LILLIEHÖÖK      | Small      | Adult 76 cm        |

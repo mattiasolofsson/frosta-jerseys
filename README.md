@@ -27,8 +27,10 @@
 | 65     | PIHLWRET        | X - Large  | Adult 76 cm        |
 | 67     | OLOFSSON        | Medium     | Adult 76 cm        |
 | 75     | LINDQVIST       | Medium     | Adult 76 cm        |
+| 80     | HANSEN          | Medium     | Adult 76 cm        |
 | 86     | KÄRRSTEDT       | Medium     | Adult 76 cm        |
 | 87     | SJÖHOLM         | X - Large  | Inga damasker      |
+| 88     | SJÖHOLM         | Large      | Inga damasker      |
 | 89     | FREDRIKSSON     | Medium     | Intermediate 66 cm |
 | 92     | FRIBERG         | Large      | Adult 76 cm        |
 | 95     | ALEHEIM         | X - Large  | Adult 76 cm        |

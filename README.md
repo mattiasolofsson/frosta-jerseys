@@ -25,9 +25,12 @@
 | 62     | ANDERSSON       | Large      | Inga damasker      |
 | 64     | BAILES          | Medium     | Adult 76 cm        |
 | 65     | PIHLWRET        | X - Large  | Adult 76 cm        |
+| 66     | TRUEDSSON       | Large      | Adult 76 cm        |
 | 67     | OLOFSSON        | Medium     | Adult 76 cm        |
 | 75     | LINDQVIST       | Medium     | Adult 76 cm        |
 | 80     | HANSEN          | Medium     | Adult 76 cm        |
+| 84     | GUSTAVSSON      | XX - Large | Inga damasker      |
+| 85     | MAGNUSSON       | Large      | Adult 76 cm        |
 | 86     | KÄRRSTEDT       | Medium     | Adult 76 cm        |
 | 87     | SJÖHOLM         | X - Large  | Inga damasker      |
 | 88     | SJÖHOLM         | Large      | Inga damasker      |

@@ -11,3 +11,4 @@
 | 90     | PETTERSSON | X - Large  |  x  |  x  | Inga damasker      |
 | 93     | WIKDAHL    | Large      |  x  |  x  | Intermediate 66 cm |
 | 95     | ALEHEIM    | XX - Large |  x  |  x  | Inga damasker      | 
+| 96     | ÅKESSON    | XX - Large |  x  |  x  | Adult 76 cm        |
